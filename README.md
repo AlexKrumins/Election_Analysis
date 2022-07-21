@@ -1,5 +1,9 @@
 # Election_Analysis
 This exercise is designed to challenge students' skills to analyze a large set of data using Python, VS Code, and Github.
+Specific skills demonstrated include:
+- Importing data from external .csv file
+- Using for loops to track, store, & analyze information across numerous rows of data.
+- Exporting anaylsis to external .txt file
 
 ## Overview of Election Audit
 An election commission has requested an audit of its data covering:
