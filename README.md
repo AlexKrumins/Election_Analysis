@@ -38,4 +38,4 @@ An election commission has requested an audit of its data covering:
   - Winning Percentage: 73.8%
 
 ## Election-Audit Summary
-This script can be used to analyze data from future elections, despite the number of candidates or counties. It can easily scale up to cover ballots from millions of voters. As long as your data used for input contains the same ballot parameters ("County", and "Candidate"), the script requires almost no modification. IF you would like to include a breakdown of an additional parameter (e.g., "City") then the code should be updated to reflect & track the new data.
+This script can be used to analyze data from future elections, regardless of the number of candidates or counties. It can easily scale up to cover ballots from millions of voters. As long as your data used for input contains the same ballot parameters ("County", and "Candidate"), the script requires almost no modification. IF you would like to include a breakdown of an additional parameter (e.g., "City") then the code should be updated to reflect & track the new data.
